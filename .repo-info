@@ -1,0 +1,5 @@
+repo: emaildozotti/amanda-simoes
+url: https://github.com/emaildozotti/amanda-simoes
+vercel: https://amanda-simoes-lp.vercel.app
+git: .git neste diretorio
+push: git push origin main (direto daqui)
