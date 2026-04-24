@@ -10,7 +10,7 @@ const COPY = {
   heading: 'Eu Não Cheguei Aqui',
   headingEm: 'Pelo Caminho Fácil',
   paragraphs: [
-    'Eu comecei minha carreira com a psicologia cognitivo-comportamental. Aprendi o que a academia ensina, apliquei o que os manuais prescrevem. E percebi, com o tempo, que havia um teto. Pacientes melhoravam até certo ponto, e depois estagnavam. Falávamos sobre o problema. Identificávamos os padrões. Mas a raiz, muitas vezes, ficava intocada. Algo faltava, e eu sentia isso.',
+    'Aprendi o que a ciência nos ensina e os manuais prescrevem, mas os padrões de comportamento sempre se repetiam, pois algo ainda permanecia em "oculto".',
     'A virada veio quando eu descobri que o ser humano não é apenas mente. Ele é corpo, mente, alma e espírito, quatro esferas indissociáveis. Quando uma terapia ignora qualquer uma delas, trata a sombra, não a luz acesa que a projeta.',
     'Hoje, eu atuo como uma ponte entre o rigor científico do Mestrado em Psicologia e a precisão do diagnóstico vibracional. Não escolho um lado. Uso os dois. Porque a transformação real acontece quando a ciência e a consciência trabalham juntas.',
   ],

@@ -20,12 +20,12 @@ const COPY = {
     },
     {
       title: 'Psicologia Acadêmica',
-      body: 'Meu Mestrado em Psicologia não é enfeite. É a base científica que permite integrar o saber acadêmico com a sabedoria vibracional de forma ética e rigorosa. Você não escolhe entre ciência e espiritualidade: você recebe os dois, trabalhando juntos.',
+      body: 'O mestrado compõe a base científica que permite unir ciência com espiritualidade, de forma ética e integrada.',
       expanded: false,
     },
   ],
   pillarCentralLabel: 'causa raiz',
-  naoPrometo: 'Não prometo milagres sem participação ativa. O paciente precisa executar as tarefas do tratamento para sustentar as novas redes neurais que o processo constrói. Eu sou a guia. Você é o arquiteto da sua própria transformação.',
+  naoPrometo: 'Você é o milagre, a autocura existe dentro de você. É um estado de Ser, onde você desperta através do autoconhecimento e de práticas integrativas associadas aos tratamentos prescritos. Você é o arquiteto da sua própria transformação. Esse trabalho é a ponte que te leva a esses estados de consciência.',
   transition: 'Mas de onde veio tudo isso? Entender a minha história vai te ajudar a entender por que esse método funciona de verdade.',
 }
 // ════════════════════════════════════════════════════════════════════
